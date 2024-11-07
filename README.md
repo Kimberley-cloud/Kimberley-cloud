@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kimberley-cloud
+- 👋 Hi, I’m @Kimberley
 - 👀 I’m interested in becoming a web developer
 - 🌱 I’m currently learning HTML, css, javascript
 - 💞️ I’m looking to collaborate on ...
